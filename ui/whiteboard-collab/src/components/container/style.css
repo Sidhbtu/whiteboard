@@ -1,0 +1,32 @@
+.container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #f50808, #04ee0c);
+}
+
+.color-picker-container {
+    text-align: center;
+    display: inline;
+    color: rgb(20, 14, 20);
+    font-weight: bold;
+}
+
+.brushsize-container {
+    display: inline;
+    color: rgb(6, 6, 8);
+    margin-left: 12px;
+    font-weight: bold;
+}
+
+.tools-section {
+    text-align: center;
+}
+
+.board-container {
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 1%;
+    background: white;
+}
